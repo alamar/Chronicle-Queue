@@ -218,7 +218,7 @@
                     </checkinComment>
                     <content>${project.reporting.outputDirectory}</content>
                     <skipDeletedFiles>true</skipDeletedFiles>
-                    <pubScmUrl>scm:git:git@github.com:OpenHFT/Chronicle-Queue</pubScmUrl>
+                    <pubScmUrl>scm:git:git@github.com:alamar/Chronicle-Queue</pubScmUrl>
                     <scmBranch>gh-pages</scmBranch>
                 </configuration>
             </plugin>
@@ -395,9 +395,9 @@
     </profiles>
 
     <scm>
-        <url>scm:git:git@github.com:OpenHFT/Chronicle-Queue.git</url>
-        <connection>scm:git:git@github.com:OpenHFT/Chronicle-Queue.git</connection>
-        <developerConnection>scm:git:git@github.com:OpenHFT/Chronicle-Queue.git
+        <url>scm:git:git@github.com:alamar/Chronicle-Queue.git</url>
+        <connection>scm:git:git@github.com:alamar/Chronicle-Queue.git</connection>
+        <developerConnection>scm:git:git@github.com:alamar/Chronicle-Queue.git
         </developerConnection>
         <tag>chronicle-queue-5.20.122</tag>
     </scm>
